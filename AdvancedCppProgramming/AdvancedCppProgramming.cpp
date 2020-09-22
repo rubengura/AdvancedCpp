@@ -23,7 +23,7 @@ void mightGoWrongString() {
     bool error = true;
 
     if (error) {
-        throw string("An error was found in the code")
+        throw string("An error was found in the code");
     }
 }
 
